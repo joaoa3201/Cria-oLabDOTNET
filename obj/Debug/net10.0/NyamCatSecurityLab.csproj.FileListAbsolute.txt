@@ -1,0 +1,14 @@
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/bin/Debug/net10.0/NyamCatSecurityLab
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/bin/Debug/net10.0/NyamCatSecurityLab.deps.json
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/bin/Debug/net10.0/NyamCatSecurityLab.runtimeconfig.json
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/bin/Debug/net10.0/NyamCatSecurityLab.dll
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/bin/Debug/net10.0/NyamCatSecurityLab.pdb
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/obj/Debug/net10.0/NyamCatSecurityLab.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/obj/Debug/net10.0/NyamCatSecurityLab.AssemblyInfoInputs.cache
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/obj/Debug/net10.0/NyamCatSecurityLab.AssemblyInfo.cs
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/obj/Debug/net10.0/NyamCatSecurityLab.csproj.CoreCompileInputs.cache
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/obj/Debug/net10.0/NyamCatSecurityLab.dll
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/obj/Debug/net10.0/refint/NyamCatSecurityLab.dll
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/obj/Debug/net10.0/NyamCatSecurityLab.pdb
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/obj/Debug/net10.0/NyamCatSecurityLab.genruntimeconfig.cache
+/home/joao/NyamCatSecurityLab/NyamCatSecurityLab/obj/Debug/net10.0/ref/NyamCatSecurityLab.dll
